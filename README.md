@@ -34,6 +34,18 @@ This Power BI dashboard analyzes sales performance across multiple product categ
 
 👉 Check the uploaded screenshot in this repository to view the dashboard design and insights.
 
+###Dashboard Page 1
+![Dashboard 1](./Sales%20Dashboard%20Project-1%20ss1.png)
+
+###Dashboard Page 2
+![Dashboard 2](./Sales%20Dashboard%20Project-1%20ss2.png)
+
+###Dashboard Page 3
+![Dashboard 3](./Sales%20Dashboard%20Project-1%20ss3.png)
+
+
+
+
 ---
 
 ## 🚀 Key Insights
