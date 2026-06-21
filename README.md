@@ -1,2 +1,50 @@
-# sales-analysis-dashboard
-Power BI Sales Analysis Dashboard Project
+# 📊 Sales Analysis Dashboard
+
+## 📌 Project Overview
+
+This Power BI dashboard analyzes sales performance across multiple product categories such as Classic Cars, Motorcycles, Planes, Ships, and Trains. It provides key insights into sales trends, profit performance, and customer behavior to support data-driven decision making.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Power BI  
+- Microsoft Excel  
+
+---
+
+## 📈 Key Features
+
+- Interactive dashboard with filters and slicers  
+- Sales and profit analysis  
+- Product category performance tracking  
+- Country-wise sales insights  
+- Business insights and recommendations page  
+
+---
+
+## 📂 Project Files
+
+- [Power BI Dashboard](./Sales%20Analysis%20Dashboard.pbix)  
+- Dashboard Screenshots 
+
+---
+
+## 📸 Dashboard Preview
+
+👉 Check the uploaded screenshot in this repository to view the dashboard design and insights.
+
+---
+
+## 🚀 Key Insights
+
+- Identified top-performing product categories  
+- Analyzed profit trends across regions  
+- Highlighted high-value customers and countries  
+- Provided actionable business recommendations  
+
+---
+
+## 📌 Note
+
+This project is part of my data analytics learning journey using Power BI.
