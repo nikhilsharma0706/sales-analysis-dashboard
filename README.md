@@ -13,6 +13,20 @@ This Power BI dashboard analyzes sales performance across multiple product categ
 
 ---
 
+## Objective
+
+The objective of this project is to analyze sales performance, identify top-performing products and markets, and provide actionable business recommendations using Power BI.
+
+---
+
+## Dataset
+
+- Dataset: Classic Models Sales Data
+- Period Covered: 2003–2005
+- Contains information about orders, customers, products, sales, and profits.
+
+---
+
 ## 📈 Key Features
 
 - Interactive dashboard with filters and slicers  
@@ -20,6 +34,17 @@ This Power BI dashboard analyzes sales performance across multiple product categ
 - Product category performance tracking  
 - Country-wise sales insights  
 - Business insights and recommendations page  
+
+---
+
+## Skills Demonstrated
+
+- Power BI
+- DAX
+- Data Cleaning
+- Data Visualization
+- Business Analysis
+- Dashboard Design
 
 ---
 
