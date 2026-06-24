@@ -59,14 +59,14 @@ The objective of this project is to analyze sales performance, identify top-perf
 
 👉 Check the uploaded screenshot in this repository to view the dashboard design and insights.
 
-### Dashboard Page 1
-![Dashboard 1](./Sales%20Dashboard%20Project-1%20ss1.png)
+### Main Dashboard
+![Dashboard 1](Sales%20Analysis%20Dashboard%20ss1.png)
 
-### Dashboard Page 2
-![Dashboard 2](./Sales%20Dashboard%20Project-1%20ss2.png)
+### Insights & Recommendaions Page
+![Dashboard 2](Sales%20Analysis%20Dashboard%20ss2.png)
 
-### Dashboard Page 3
-![Dashboard 3](./Sales%20Dashboard%20Project-1%20ss3.png)
+### Dashboard using Slicer
+![Dashboard 3](Sales%20Analysis%20Dashboard%20ss3.png)
 
 
 
